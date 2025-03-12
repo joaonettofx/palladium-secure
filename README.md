@@ -1,5 +1,3 @@
-Palladium Secure
-
 Neste projeto, está uma Lading Page minimalista e moderna. Onde podemos ver tudo sobre a Palladium Secure que é uma empresa de inteligência patrimonial e rastreio de ativos, especializada em:
 
 ✅ Investigação digital (OSINT) para escritórios de advocacia e empresas financeiras.
